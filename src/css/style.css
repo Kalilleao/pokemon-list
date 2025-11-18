@@ -1,6 +1,6 @@
 body{
     font-family: 'Roboto', sans-serif;
-    max-width: 1280px;
+    max-width: 1080px;
     margin: 0 auto;
     background-image: url(../images/bg-day.png);
     background-size: cover;
@@ -129,4 +129,5 @@ main .description {
     overflow-y: scroll;
     font-size: 14px;
     padding-right: 10px;
+
 }
